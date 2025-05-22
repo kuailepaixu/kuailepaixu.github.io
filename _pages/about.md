@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 Data Scientist, Ant Group <br>
-Sep 2023 - Jun 2025, Master of Science - MS, Applied Statistics, [Sichuan University](https://www.scu.edu.cn/) <br>
-Sep 2019 - Jun 2023, Bachelor of Science - BS, Mathematics and Applied Mathematics, [Sichuan University](https://www.scu.edu.cn/) <br>
+·Master of Science - MS, Applied Statistics, [Sichuan University](https://www.scu.edu.cn/) <br>
+*Sep 2023 - Jun 2025*<br>
+·Bachelor of Science - BS, Mathematics and Applied Mathematics, [Sichuan University](https://www.scu.edu.cn/) <br>
+*Sep 2019 - Jun 2023*<br>
 
 
 
